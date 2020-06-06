@@ -5,11 +5,11 @@ welcome to front-end section details, you can use it to check your learning proc
 ```
 
 ### **Naviagate to Other Path**
-* [Introduction](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/introduction-details.md)
-* [Front-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/front-end-details.md)
-* [Back-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/back-end-details.md)
-* [Full-stack](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/full-stack.md)
-* [DevOps](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/devops-details.md)
+* [Introduction](introduction-details.md)
+* [Front-End](front-end-details.md)
+* [Back-End](back-end-details.md)
+* [Full-stack](full-stack.md)
+* [DevOps](devops-details.md)
 
 ### **How to track?**
 ```
@@ -162,7 +162,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="11"> :white_check_mark: </td>
             <td rowspan="11"><b> JavaScript Basic </b></td>
-            <td rowspan="11"> :notebook:  </td>
+            <td rowspan="11"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/1gfAaCZ"> JS The Right Way (overview about JS) </a></td>
@@ -242,7 +242,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="4"> :white_check_mark: </td>
             <td rowspan="4"><b> JavaScript Native Specs </b></td>
-            <td rowspan="4"> :notebook:  </td>
+            <td rowspan="4"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> reading </td>
             <td><a href="http://bit.ly/2HlA7F8"> How JavaScript objects work </a></td>
@@ -433,7 +433,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> Bootstrap </b></td>
-            <td rowspan="1"> :notebook:  </td>
+            <td rowspan="1"> :ledger:  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/28IH8Sj"> Udemy/The-complete-Bootstrap-master-class </a></td>
@@ -574,7 +574,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
          <tr>
             <td rowspan="8"> :white_check_mark: </td>
             <td rowspan="8"><b> Advance JavaScript </b></td>
-            <td rowspan="8"> :notebook:  </td>
+            <td rowspan="8"> :ledger:  </td>
 	    <td><b> complete </b></td>
             <td> source </td>
             <td><a href="https://bit.ly/2DRvHU2"> Awesome Javascript Learning </a></td>
@@ -711,7 +711,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
         <tr>
-            <td rowspan="1"> :black_square_button: </td>
+            <td rowspan="1"> :white_check_mark: </td>
             <td rowspan="1"><b> <a href="https://bit.ly/2pxwcgQ">TypeScript</a> / <a href="https://flow.org/">Flow</a> </b></td>
             <td rowspan="1"> ---  </td>
             <td><b> not started </b></td>
@@ -810,9 +810,9 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
 	<tr>
-            <td rowspan="7"> :black_square_button: </td>
-            <td rowspan="7"><b> <a href="https://angularjs.org/">AngularJS</a> </b></td>
-            <td rowspan="7"> ---  </td>
+            <td rowspan="6"> :black_square_button: </td>
+            <td rowspan="6"><b> <a href="https://angularjs.org/">AngularJS</a> </b></td>
+            <td rowspan="6"> ---  </td>
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2nupmJ5"> Udemy/AngularJ5-The-Complete-Guide </a></td>
@@ -847,13 +847,6 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-        <tr>
-            <td><b> not started </b></td>
-            <td> path </td>
-            <td><a href="http://bit.ly/2HisHSW"> Lynda/Become-Angular(2+)-Developer </a></td>
-            <td> --- </td>
-            <td> --- </td>
-        </tr>
 	<tr>
             <td><b> not buy yet </b></td>
             <td> course </td>
@@ -885,9 +878,58 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
             <td> --- </td>
         </tr>
-	<tr><td rowspan="1"> :black_square_button: </td>
-            <td rowspan="1"><b> <a href="https://angular.io/">Angular</a> </b></td>
-            <td rowspan="1"> ---  </td>
+	<tr><td rowspan="8"> :white_check_mark: </td>
+            <td rowspan="8"><b> <a href="https://angular.io/">Angular</a> </b></td>
+            <td rowspan="8"> :ledger:  </td>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2mESyfg"> Udemy/Angular6-(formerly-Angular2)-The-Complete-Guide </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2DUCRfJ"> Udemy/Angular5-Concept-Mastery-Course </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2IzHavv"> Udemy/Testing-Angular4-Apps-with-Jasmine </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2xWtmaw"> Udemy/Angular-RxJS-Reactive-Programming-Free-Ebook </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2ybeJiD"> Udemy/Angular6-Security-MasterClass </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2Pa7M8T"> Udemy/Angular-NodeJS-The-MEAN-Stack-Guide </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2NlIl2o"> Udemy/Build-An-App-With-ASPNET-Core-And-Angular-From-Scratch </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
             <td><b> --- </b></td>
             <td> --- </td>
             <td><a href="#"> --- </a></td>
@@ -972,10 +1014,17 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 > #### Library Framework
 <table>
 	<tr>
-            <td rowspan="7"> :black_square_button: </td>
-            <td rowspan="7"><b> <a href="https://reactjs.org/">React</a> </b></td>
-            <td rowspan="7"> ---  </td>
-            <td><b> not started </b></td>
+            <td rowspan="8"> :black_square_button: </td>
+            <td rowspan="8"><b> <a href="https://reactjs.org/">React</a> </b></td>
+            <td rowspan="8"> ---  </td>
+            <td><b> --- </b></td>
+            <td> references </td>
+            <td><a href="https://github.com/adam-golab/react-developer-roadmap"> React-Developer-Roadmap </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+	<tr>
+	    <td><b> not started </b></td>
             <td> course </td>
             <td><a href="http://bit.ly/2tuu0vT"> Udemy/Modern-React-with-Redux </a></td>
             <td> --- </td>
@@ -1586,7 +1635,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="2"> :white_square_button: </td>
+            <td rowspan="2"> :white_check_mark: </td>
             <td rowspan="2"><b> Design Patterns </b></td>
             <td rowspan="2"> :notebook:  </td>
             <td><b> not started </b></td>
@@ -1603,7 +1652,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="4"> :white_square_button: </td>
+            <td rowspan="4"> :white_check_mark: </td>
             <td rowspan="4"><b> Creational Design Patterns </b></td>
             <td rowspan="4"> :notebook:  </td>
             <td><b> not started </b></td>
@@ -1634,7 +1683,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
         <tr>
-            <td rowspan="9"> :white_square_button: </td>
+            <td rowspan="9"> :white_check_mark: </td>
             <td rowspan="9"><b> Structural Design Patterns </b></td>
             <td rowspan="9"> :notebook:  </td>
             <td><b> not started </b></td>
@@ -1700,7 +1749,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
        	<tr>
-            <td rowspan="4"> :white_square_button: </td>
+            <td rowspan="4"> :white_check_mark: </td>
             <td rowspan="4"><b> Behavioral Design Patterns </b></td>
             <td rowspan="4"> :notebook:  </td>
             <td><b> not started </b></td>
@@ -1731,7 +1780,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
             <td> --- </td>
         </tr>
 		      <tr>
-            <td rowspan="3"> :white_square_button: </td>
+            <td rowspan="3"> :white_check_mark: </td>
             <td rowspan="3"><b> MV* Design Patterns </b></td>
             <td rowspan="3"> :notebook:  </td>
             <td><b> not started </b></td>

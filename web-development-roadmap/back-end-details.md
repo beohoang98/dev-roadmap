@@ -4,11 +4,11 @@ welcome to back-end section details, you can use it to check your learning proce
 You can use the color scheme below to grade your knowledge level of each topic
 ```
 ### **Naviagate to Other Path**
-* [Introduction](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/introduction-details.md)
-* [Front-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/front-end-details.md)
-* [Back-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/back-end-details.md)
-* [Full-stack](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/full-stack.md)
-* [DevOps](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/devops-details.md)
+* [Introduction](introduction-details.md)
+* [Front-End](front-end-details.md)
+* [Back-End](back-end-details.md)
+* [Full-stack](full-stack.md)
+* [DevOps](devops-details.md)
 
 ### **How to track?**
 ```
@@ -1089,9 +1089,9 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="8"> :white_check_mark: </td>
-            <td rowspan="8"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
-            <td rowspan="8"> :ledger:  </td>
+            <td rowspan="9"> :white_check_mark: </td>
+            <td rowspan="9"><b> <a href="https://bit.ly/2rxMXuj">Java EE Essential</a> </b></td>
+            <td rowspan="9"> :ledger:  </td>
             <td><b> complete </b></td>
             <td> path </td>
             <td><a href="https://app.pluralsight.com/paths/skills/java-ee-foundations"> PluralSight/JavaEE-Skill-Path </a></td>
@@ -1137,6 +1137,13 @@ kyu (your current level) | Ability
             <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2qeGMKe"> PluralSight/Maven-Fundamental </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> book </td>
+            <td><a href="https://livebook.manning.com/#!/book/junit-in-action-second-edition/table-of-contents/"> Junit-In-Action </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -1228,9 +1235,9 @@ kyu (your current level) | Ability
             <th>Start Date</th>
         </tr>
         <tr>
-            <td rowspan="12"> :black_square_button: </td>
-            <td rowspan="12"><b> Spring </b></td>
-            <td rowspan="12"> ---  </td>
+            <td rowspan="15"> :black_square_button: </td>
+            <td rowspan="15"><b> Spring </b></td>
+            <td rowspan="15"> ---  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://bit.ly/2LoC8CZ"> PluralSight/Core-Spring </a></td>
@@ -1252,7 +1259,28 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
         <tr>
-            <td><b> on  </b></td>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2L1s0CO"> Udemy/Spring-Core-Learn-Spring-Framnework4-and-SpringBoot </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2MYRy12"> Udemy/Spring-Core-Advanced-Beyond-The-Basic </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> on hold  </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2A2nDTQ"> Udemy/Angular-for-Java-Developer </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> not started  </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2tLoMsx"> Udemy/Spring-Framework5-Beginner-to-Guru </a></td>
             <td> --- </td>
@@ -1266,7 +1294,7 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
         <tr>
-            <td><b> not started </b></td>
+            <td><b> complete </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2Mxyg2i"> Udemy/Master-Spring-WebService-And-REST-API-with-Spring-Boot </a></td>
             <td> --- </td>

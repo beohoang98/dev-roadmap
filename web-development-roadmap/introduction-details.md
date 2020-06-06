@@ -5,11 +5,11 @@ You can use this details to track the process
 You can use the color scheme below to grade your knowledge level of each topic
 ```
 ### **Naviagate to Other Path**
-* [Introduction](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/introduction-details.md)
-* [Front-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/front-end-details.md)
-* [Back-End](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/back-end-details.md)
-* [Full-stack](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/full-stack.md)
-* [DevOps](https://github.com/luuductrung1234/dev-roadmap/blob/master/web-development-roadmap/devops-details.md)
+* [Introduction](introduction-details.md)
+* [Front-End](front-end-details.md)
+* [Back-End](back-end-details.md)
+* [Full-stack](full-stack.md)
+* [DevOps](devops-details.md)
 
 ### **How to track?**
 ```
@@ -91,12 +91,36 @@ kyu (your current level) | Ability
             <td> --- </td>
         </tr>
          <tr>
-            <td rowspan="7"> :white_check_mark: </td>
-            <td rowspan="7"><b> Networking </b></td>
-            <td rowspan="7"> :notebook:  </td>
+            <td rowspan="2"> :white_check_mark: </td>
+            <td rowspan="2"><b> Visual Studio Team Service - VSTS </b></td>
+            <td rowspan="2"> :ledger: </td>
+            <td><b> on hold </b></td>
+            <td>Course</td>
+            <td><a href="https://bit.ly/2NPUfCK"> PluralSight/Getting-Started-With-Visual-Studio-Team-Service-(2018) </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td><b> not started </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2oOwEHU"> PluralSight/Visual-Studio-Team-Service-Migrating-From-TFS </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="8"> :white_check_mark: </td>
+            <td rowspan="8"><b> Networking </b></td>
+            <td rowspan="8"> :notebook:  </td>
             <td><b> on hold </b></td>
             <td> path </td>
             <td><a href="https://bit.ly/2Kli1ZB"> PluralSight/Networking-Fundamentals </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+        <tr>
+            <td><b> on hold </b></td>
+            <td> book </td>
+            <td><a href="https://1drv.ms/b/s!Aoo1lJ2qnAfPgVDDuiAqkBCXJaq5"> Computer-Networking-A-Top-Down-Approach </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
@@ -156,6 +180,16 @@ kyu (your current level) | Ability
             <td><b> not started </b></td>
             <td> course </td>
             <td><a href="https://bit.ly/2H64umk"> PluralSigh/HTTP/2-Fundamentals </a></td>
+            <td> --- </td>
+            <td> --- </td>
+        </tr>
+         <tr>
+            <td rowspan="1"> :white_check_mark: </td>
+            <td rowspan="1"><b> DNS </b></td>
+            <td rowspan="1"> :notebook:  </td>
+            <td><b> complete </b></td>
+            <td> course </td>
+            <td><a href="https://bit.ly/2w3deSM"> PkuralSight/Deep-Dive:Domain-Name-Service </a></td>
             <td> --- </td>
             <td> --- </td>
         </tr>
